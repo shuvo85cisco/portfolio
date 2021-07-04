@@ -22,6 +22,8 @@ h1{
     margin-right: 5%;
     padding: 10px;
     box-shadow: 10px 10px 40px gray;
+    border-left: black solid;
+    border-radius: 10px;
 }
 .half-width img{
     width: 80%;
@@ -50,4 +52,9 @@ h1{
     background-image: url(/Users/iftekhar/Desktop/Projects/portfolio/images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+#web-dev-experience{
+border-left: 7px solid;
+border-image: linear-gradient(blue , cyan);
+border-image-slice: 1;
 }
