@@ -39,17 +39,17 @@ h1{
 
 }
 .middle-section{
-    background-image: url(/Users/iftekhar/Desktop/Projects/portfolio/images/dream-bg.png);
+    background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
 .top-section{
-    background-image: url(/Users/iftekhar/Desktop/Projects/portfolio/images/top-banner.png);
+    background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
    
 }
 .bottom-section{
-    background-image: url(/Users/iftekhar/Desktop/Projects/portfolio/images/exp-bg.png);
+    background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
