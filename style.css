@@ -53,8 +53,13 @@ h1{
     background-repeat: no-repeat;
     background-position: left;
 }
-#web-dev-experience{
+#web-dev-experiene{
 border-left: 7px solid;
 border-image: linear-gradient(blue , cyan);
 border-image-slice: 1;
+}
+#baby-dev-experiene{
+    border-left: 7px solid;
+    border-image: linear-gradient(green , yellow);
+    border-image-slice: 1;
 }
